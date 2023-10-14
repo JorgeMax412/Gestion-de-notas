@@ -90,7 +90,7 @@ namespace Gestion_de_notas
             dataGridAlumno.Columns[4].HeaderText = "Genero";
             dataGridAlumno.Columns[5].HeaderText = "Direccion";
             dataGridAlumno.Columns[6].HeaderText = "Foto";
-            dataGridAlumno.Columns[7].HeaderText = "Codigo escuela";
+            dataGridAlumno.Columns[7].HeaderText = "Codigo de la escueala";
         }
 
 
